@@ -1,2 +1,2 @@
-# PHP-PROJECT
-Project on e-learning portal
+# Gyaan-LMS
+Gyaan is an Learning Management using Materialize CSS,PHP,Oracle.
